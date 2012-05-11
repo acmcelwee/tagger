@@ -1,7 +1,10 @@
 {
-    "name": "tagger",
-    "version": "0.0.1",
-    "dependencies": {
-        "optimist": "0.3.4"
+    "name" : "tagger",
+    "version" : "0.0.1",
+    "dependencies" : {
+        "optimist" : "0.3.4",
+        "shred" : "0.7.18",
+        "sprintf" : "0.1.1",
+        "xml2js" : "0.1.14"
     }
 }
